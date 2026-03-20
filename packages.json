@@ -6,5 +6,9 @@
   {
     "package": "retrodesign",
     "url": "https://github.com/andytimm/retrodesign"
+  },
+  {
+    "package": "nutpieR",
+    "url": "https://github.com/andytimm/nutpieR"
   }
 ]
